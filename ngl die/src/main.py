@@ -67,4 +67,4 @@ class vardxg():
     
     sendTell()
 vardxg()
-# Made with <3 by @user0x333!
+# Made with <3 by @Fhivo! 
